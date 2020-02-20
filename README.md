@@ -1,4 +1,4 @@
-# I've made a terminal based text Adventure Game- Arch Legends
+# I've made a terminal based text Adventure Game- Arch Legends. The code is in Java
 To see the code open ArchLegends.java
 
 The game's objective is to find the Boss villain and kill him. You get to be one of the following Heros all with different abilities to attack and defend plus each has a different Special Attack:
